@@ -1,3 +1,5 @@
 # Ensayo
 
-Probando cambios en Github hacía Git
+Ensayos sobre Python
+
+Clase : https://www.youtube.com/watch?v=SHA6Eh3LW5U
